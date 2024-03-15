@@ -1,0 +1,30 @@
+/* Recommended CSS reset */
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  width: 25%;
+}
+p {
+  width: 25%;
+}
+button:hover {
+  background-color: #7880bd;
+}
+input {
+  width: 25%;
+}
+/* --- */
+
+@media screen and (max-width: 800px) {
+}
+
+@media screen and (max-width: 480px) {
+}
